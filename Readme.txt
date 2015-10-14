@@ -1,0 +1,1 @@
+在使用软件的时候，打开BDCarService.xcworkspace工作空间即可运行程序。

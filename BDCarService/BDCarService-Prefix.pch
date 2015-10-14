@@ -1,0 +1,19 @@
+//
+//  BDCarService-Prefix.pch
+//  BDCarService
+//
+//  Created by hu on 15/5/10.
+//
+//
+
+#ifndef BDCarService_BDCarService_Prefix_pch
+#define BDCarService_BDCarService_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "UtilsMacro.h"
+#import "NetMacro.h"
+#import "SVPullToRefresh.h"
+
+#endif
